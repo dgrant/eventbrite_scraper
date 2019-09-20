@@ -1,0 +1,13 @@
+setup.py
+eventbrite_scraper/__init__.py
+eventbrite_scraper/items.py
+eventbrite_scraper/middlewares.py
+eventbrite_scraper/pipelines.py
+eventbrite_scraper/settings.py
+eventbrite_scraper/spiders/__init__.py
+eventbrite_scraper/spiders/eventbrite.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
